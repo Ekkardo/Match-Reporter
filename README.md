@@ -5,5 +5,5 @@ The content of the log files are pre-formatted by the Overwatch 2 workshop engin
 Please do not change or alter the formatting as a moderator or anyone, at committing phase, i'll check any aberration and onward as such decline committs and further processings with them.
 Just commit the raw pre-formatted log files aand we are good to go. 
 Thank you very much! 
-Besr regards 
+Best regards 
 Ekkardo aka Kizaru.
